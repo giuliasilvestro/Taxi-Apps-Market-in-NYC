@@ -4,5 +4,5 @@ Visualization analysis of taxi and apps (Uber, Via, Lyft etc.) trips in New York
 [Link to Dashboards in Tableau Public](https://public.tableau.com/views/TaxiAppsMarketinNYC/1_DashboardMarket?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 ## Preview
-![This is an image](https://ibb.co/zJZ3hLW)
-![This is an image](https://ibb.co/Dz9Bf3D)
+![This is an image](https://i.ibb.co/9tWx9fm/1-Dashboard-Market.png)
+![This is an image](https://i.ibb.co/HBtcTmD/Dashboard2.png)
